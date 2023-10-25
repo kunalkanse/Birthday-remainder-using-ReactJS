@@ -7,7 +7,7 @@ function App() {
   const [data, setdata] = useState(Data);
   // useEffect(()=>{
   //           fetch(`${Data}`).then(res=>res.json()).then(d=>setdata(d));
-
+ 
   // },[data]);
   return (
     <div className="background">
