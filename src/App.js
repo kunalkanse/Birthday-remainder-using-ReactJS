@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 import { Data } from "./Data";
 
 function App() {
-  const [data, setdata] = useState(Data);
+  const [data, setdata] = useState(Data); 
   // useEffect(()=>{ 
   //           fetch(`${Data}`).then(res=>res.json()).then(d=>setdata(d));
  
