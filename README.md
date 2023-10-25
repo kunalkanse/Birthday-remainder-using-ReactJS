@@ -1,3 +1,9 @@
+# webpage
+
+![Screenshot (20)](https://github.com/kunalkanse/Birthday-remainder-using-ReactJS/assets/92772714/e2b4df9e-eb48-49a5-9c12-4d3e038a48c6)
+![Screenshot (21)](https://github.com/kunalkanse/Birthday-remainder-using-ReactJS/assets/92772714/557890b2-9d2b-4c01-bd4a-6af62b23c659)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
