@@ -5,7 +5,7 @@ import { Data } from "./Data";
 
 function App() {
   const [data, setdata] = useState(Data);
-  // useEffect(()=>{
+  // useEffect(()=>{ 
   //           fetch(`${Data}`).then(res=>res.json()).then(d=>setdata(d));
  
   // },[data]);
